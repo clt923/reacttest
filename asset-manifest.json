@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/clt923/reacttest/static/js/main.951b13a9.js",
-    "index.html": "/clt923/reacttest/index.html",
-    "main.951b13a9.js.map": "/clt923/reacttest/static/js/main.951b13a9.js.map"
+    "main.js": "/reacttest/static/js/main.951b13a9.js",
+    "index.html": "/reacttest/index.html",
+    "main.951b13a9.js.map": "/reacttest/static/js/main.951b13a9.js.map"
   },
   "entrypoints": [
     "static/js/main.951b13a9.js"
